@@ -16,7 +16,7 @@ EduBridge bridges the gap between learning and career guidance by combining stru
 ## ✨ Features
 
 - 🔐 **User Authentication** – Secure login and registration system  
-- 👤 **Personalized Profiles** – Users can manage and update their profiles  
+- 👤 **Personalised Profiles** – Users can manage and update their profiles  
 - 🧠 **Quizzes** – Assess knowledge on various technical topics  
 - 🤖 **AI Assistance** – AI-powered learning and guidance  
 - 🎯 **Career Guidance** – Resources and career advice  
@@ -125,7 +125,7 @@ http://127.0.0.1:5000/
 4️⃣ Write clean, readable, and well-documented code  
 5️⃣ Make meaningful commit messages  
 6️⃣ Submit a Pull Request with a clear description  
-7️⃣ Wait for Project Admin review before merge
+7️⃣ Wait for Project Admin review before merging
 
 ---
 
@@ -160,7 +160,7 @@ http://127.0.0.1:5000/
 
 cd EduBridge
 
-### 2. Setup Python Backend
+### 2. Set up Python Backend
 
 cd backend
 
@@ -187,7 +187,7 @@ http://127.0.0.1:5000/
 - Write clean, readable, and well-documented code
 - Make meaningful commit messages
 - Submit a Pull Request with a clear description
-- Wait for Project Admin review before merge
+- Wait for Project Admin review before merging
 
 ---
 
@@ -231,7 +231,7 @@ Leaderboard system
 ## 🚀 Future Enhancements
 - Leaderboard system
 - Advanced learning analytics
-- Enhanced AI personalization
+- Enhanced AI personalisation
 - Mobile application support
 
 ---
@@ -244,12 +244,12 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## 📬 Contact
-- LinkedIn: Aditi Anand
-- Email: aditianand09tkp@gmail.com
+- LinkedIn: Shivam Kanse
+- Email: shivamkanse2104@gmail.com
 
 ## 📬 Contact
-LinkedIn: Aditi Anand
+LinkedIn: Shivam Kanse
 
-Email: aditianand09tkp@gmail.com
+Email: shivamkanse2104@gmail.com
 
 ---
